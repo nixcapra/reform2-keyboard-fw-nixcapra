@@ -4,6 +4,8 @@ This is my customized version of the MNT Reform Keyboard 2 Firmware, where I hav
 
 The [Reform Keyboard Editor](https://mntre.com/media/reform_md/reform-keyboard-editor/index.html) might be useful.
 
+The main repository for anything MNT Reform can be found [here](https://source.mnt.re/reform/reform/).
+
 ## Modifications I made:
 
 - Eliminated the `HID_KEYBOARD_SC_APPLICATION` key from the matrix and replaced it with `KEY_CIRCLE`.

@@ -22,7 +22,7 @@
 #endif
 // allow overriding KBD_FW_VERSION by not touching it if it's already set
 #ifndef KBD_FW_VERSION
-#  define KBD_FW_VERSION "20230703"
+#  define KBD_FW_VERSION "20240421"
 #endif
 // set KBD_FW_REV according to variant 2 or 3
 #ifdef KBD_VARIANT_3

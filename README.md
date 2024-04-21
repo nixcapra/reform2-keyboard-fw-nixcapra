@@ -10,6 +10,8 @@ The main repository for anything MNT Reform can be found [here](https://source.m
 
 - Eliminated the `HID_KEYBOARD_SC_APPLICATION` key from the matrix and replaced it with `KEY_CIRCLE`.
 - Reassigned `KEY_CIRCLE` to function as `KEY_DELETE`.
+- Swapped `HID_KEYBOARD_SC_EXECUTE` with `HID_KEYBOARD_SC_LEFT_ALT`.
+- Swapped `HID_KEYBOARD_SC_RIGHT_ALT` with `HID_KEYBOARD_SC_EXECUTE`.
 - Excluded the MNT Reform Logo from the font, located in the `gfx/` directory.
   - New `font.c` containing the new font.
 - Removed the logo on boot.

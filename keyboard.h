@@ -114,7 +114,7 @@
   HID_KEYBOARD_SC_DOT_AND_GREATER_THAN_SIGN,\
   KEY_SLASH_AND_QUESTION_MARK,\
   HID_KEYBOARD_SC_UP_ARROW,\
-  HID_KEYBOARD_SC_RIGHT_SHIFT
+  KEY_END
 
 // Sixth row
 // NIXCAPRA: Here HID_KEYBOARD_SC_LEFT_ALT is swapped with HID_KEYBOARD_SC_RIGHT_ALT and RIGHT_ALT is swapped with HID_KEYBOARD_SC_EXECUTE as to not eliminate volume and brightness control functions.
